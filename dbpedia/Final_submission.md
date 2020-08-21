@@ -1,4 +1,4 @@
-# DBpedia batabus integration with IPFS
+# DBpedia Databus integration with IPFS
 
 The details on the project proposal please find [here](Proposal.md).
 
